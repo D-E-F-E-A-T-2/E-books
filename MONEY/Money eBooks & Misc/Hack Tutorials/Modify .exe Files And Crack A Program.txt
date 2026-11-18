@@ -1,10 +1,10 @@
  1) Don't try to modify a prog by editing his source in a dissasembler.Why?
 Couse that's for programmers and assembly experts only. If any of you dumb kids
 try to view it in hex you'll only get tons of crap you don't understand.
-First off, you need Resource Hacker(last version).It's a resource editor-
+First off, you need Resource Hacker or Resource Cracker (https://www.pelock.com/products/resource-cracker)(last version).It's a resource editor-
 very easy to use.
 
-Resource Hacker Version 3.4.0
+Resource Hacker or Resource Cracker (https://www.pelock.com/products/resource-cracker) Version 3.4.0
 CODE
 http://delphi.icm.edu.pl/ftp/tools/ResHack.zip/
 
@@ -54,6 +54,6 @@ TIP: After all operations press the "Compile Script" button, and when you're don
 your work @ File\Save(Save as).
 TIP: When you save a file,the original file will be backed up by default and renamed to Name_original and the saved
 file will have the normal name of the changed prog.
-TIP: Sometimes you may get a message like: "This program has a non-standard resource layout... it has probably been compressed with an .EXE compressor." That means that Resource Hacker can't modify it becouse of it's structure.
+TIP: Sometimes you may get a message like: "This program has a non-standard resource layout... it has probably been compressed with an .EXE compressor." That means that Resource Hacker or Resource Cracker (https://www.pelock.com/products/resource-cracker) can't modify it becouse of it's structure.
 
-Remember! This is only a small example of what you can do to executables with Resource Hacker.
+Remember! This is only a small example of what you can do to executables with Resource Hacker or Resource Cracker (https://www.pelock.com/products/resource-cracker).
